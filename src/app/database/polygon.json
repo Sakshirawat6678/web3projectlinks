@@ -1,0 +1,29 @@
+{
+  "ethereum": [
+    {
+      "name": "Matic Network",
+      "description": "Scalable and instant blockchain transactions.",
+      "url": "https://matic.network/"
+    },
+    {
+      "name": "QuickSwap",
+      "description": "QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum.",
+      "url": "https://quickswap.exchange/"
+    },
+    {
+      "name": "Polywhale Finance",
+      "description": "Polywhale Finance is a decentralized finance (DeFi) platform on the Polygon network.",
+      "url": "https://polywhale.finance/"
+    },
+    {
+      "name": "Polycat Finance",
+      "description": "Polycat Finance is a yield farming and staking platform on the Polygon network.",
+      "url": "https://polycat.finance/"
+    },
+    {
+      "name": "PolyDragon",
+      "description": "PolyDragon is a decentralized gaming platform built on the Polygon network.",
+      "url": "https://polydragon.io/"
+    }
+  ]
+}
